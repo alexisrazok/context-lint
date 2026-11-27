@@ -5,7 +5,6 @@ edition = "2021"
 description = "Fast cross-platform linter for AI coding agent context files (CLAUDE.md, AGENTS.md, GEMINI.md, Cursor rules, skills, and MCP bloat)."
 license = "Apache-2.0"
 repository = "https://github.com/alexisrazok/context-lint"
-homepage = "https://github.com/alexisrazok/context-lint"
 readme = "README.md"
 keywords = ["ai", "agents", "linter", "mcp", "claude"]
 categories = ["command-line-utilities", "development-tools"]

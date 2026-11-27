@@ -18,9 +18,9 @@ Linter rápido y multiplataforma escrito en Rust para auditar el contexto de arr
 ### Binarios precompilados (Linux, macOS, Windows)
 Descarga el binario correspondiente a tu sistema operativo desde la página de [Releases](https://github.com/alexisrazok/context-lint/releases/latest).
 
-### Desde código fuente con Cargo
+### Desde crates.io con Cargo
 ```bash
-cargo install --git https://github.com/alexisrazok/context-lint
+cargo install context-lint
 ```
 
 ## Uso
